@@ -1,5 +1,8 @@
 # bank_statement_parser
 
+## Packages used
+ - [camelot](https://github.com/socialcopsdev/camelot)
+
 ## Setup
  - Install virtualenv
  - install packages from requirements.txt
